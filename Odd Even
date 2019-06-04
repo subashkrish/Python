@@ -17,3 +17,14 @@ O/P:
 2
 odd
 not evenly divided
+-
+-
+num = input("Enter a number: ")
+mod = int (num) % 2
+if mod > 0:
+    print("You picked an odd number.")
+else:    
+    print("You picked an even number.")
+O/P:
+21
+Odd number
