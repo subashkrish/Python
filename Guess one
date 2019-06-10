@@ -21,9 +21,3 @@ while guess != number and guess != "exit":
     else:
         print("You got it!")
         print("And it only took you",count,"tries!")
-O/P:
-   5
-   Too low
-   7
-   You got it 
-   2 tries
