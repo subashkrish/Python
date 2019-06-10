@@ -7,6 +7,3 @@ if (sum1 == n):
     print("The number is a Perfect number!")
 else:
     print("The number is not a Perfect number!")
-O/P:
-6
-Perfect number
